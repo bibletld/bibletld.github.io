@@ -1,8 +1,8 @@
 ---
 title: Featured use cases of .BIBLE
-date: 2019-09-01 00:16:00 -04:00
----
+date: 2019-09-01T04:16:00.000+00:00
 
+---
 ***
 
 ## permalink: /index/
@@ -19,4 +19,4 @@ testing files for new gTLD - [https://github.com/google/domaintest](https://gith
 
 ***
 
-This website is powered by [siteleaf.com](https://manage.siteleaf.com/) and [forestry.io](https://app.forestry.io/)
+* this website is powered by [siteleaf.com](https://manage.siteleaf.com/) and [forestry.io](https://app.forestry.io/)
