@@ -3,6 +3,9 @@ title: Featured use cases of .BIBLE
 date: 2019-09-01 00:16:00 -04:00
 ---
 
+---
+permalink: /index/
+---
 Welcome to this showcase of Github repositories and other things in the Github eco-system related to the .BIBLE top-level domain that are interesting and useful to be featured.
 
 ## kingjames.bible
