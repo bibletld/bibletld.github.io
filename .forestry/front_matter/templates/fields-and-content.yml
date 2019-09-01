@@ -1,7 +1,11 @@
 ---
----
-
----
 label: fields and content
 hide_body: false
-fields: []
+fields:
+- name: sortable_list
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: sortable list
