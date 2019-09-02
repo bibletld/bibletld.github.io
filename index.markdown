@@ -1,7 +1,7 @@
 ---
-title: Featured use cases of .BIBLE
+title: Featured use cases of .BIBLE domain names
 date: 2019-09-01 00:16:00 -04:00
-subtitle: a resource site from [get.bible](https://get.bible)
+subtitle: a resource site from Get.Bible
 layout: page
 show_sidebar: true
 ---
@@ -20,4 +20,4 @@ testing files for new gTLD - [https://github.com/google/domaintest](https://gith
 
 ***
 
-* this website is powered by [siteleaf.com](https://manage.siteleaf.com/) and [forestry.io](https://app.forestry.io/)
+* this website is powered by [siteleaf.com](https://manage.siteleaf.com/) and the [Get.Bible](https://get.bible) team
