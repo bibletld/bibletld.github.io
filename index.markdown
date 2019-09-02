@@ -1,7 +1,7 @@
 ---
 title: Featured use cases of .BIBLE
-subtitle: a resource site from [get.bible](https://get.bible)
 date: 2019-09-01 00:16:00 -04:00
+subtitle: a resource site from [get.bible](https://get.bible)
 layout: page
 show_sidebar: true
 ---
