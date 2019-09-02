@@ -9,3 +9,17 @@ collections:
     title: Uploads
     output: true
 remote_theme: chrisrhymes/bulma-clean-theme
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Get.Bible"
+      layout: post
+      show_sidebar: true
+
+# Pagination settings
+paginate: 5
+paginate_path: "/blog/page:num"
