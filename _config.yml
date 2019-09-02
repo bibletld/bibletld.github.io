@@ -8,4 +8,5 @@ collections:
   uploads:
     title: Uploads
     output: true
-theme: jekyll-theme-leap-day
+#theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
