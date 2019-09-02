@@ -17,12 +17,11 @@ To find out how easy or how difficult it would be to migrate from WordPress to G
 ## Resources for Migrating from WordPress to GitHub Pages
 
 
-[Build A Blog With Jekyll And GitHub Pages]
-(https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) (Barry Clark, in Smashing Magazine, 2014) - has the step-by-step process that this author used to migrate from WordPress to Jekyll and GitHub
+[Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) (Barry Clark, in Smashing Magazine, 2014) - has the step-by-step process that this author used to migrate from WordPress to Jekyll and GitHub
 
-[How-to: Migrating Blog from WordPress to Jekyll, and Host on Github] (https://girliemac.com/blog/2013/12/27/wordpress-to-jekyll/) (Tomomi Imura, 2013) - good overview of steps involved, including using a custom domain like girliemac.com
+[How-to: Migrating Blog from WordPress to Jekyll, and Host on Github](https://girliemac.com/blog/2013/12/27/wordpress-to-jekyll/) (Tomomi Imura, 2013) - good overview of steps involved, including using a custom domain like girliemac.com
 
-[On Migrating Los Techies to Github Pages] (https://lostechies.com/derekgreer/2018/02/16/on-migrating-lostechies-to-github-pages/) (Derek Greer, 2018) - "Overall, the conversion was way more work than I anticipated, but I believe worth the effort."
+[On Migrating Los Techies to Github Pages](https://lostechies.com/derekgreer/2018/02/16/on-migrating-lostechies-to-github-pages/) (Derek Greer, 2018) - "Overall, the conversion was way more work than I anticipated, but I believe worth the effort."
 
 [Migrating from WordPress.com to GitHub Pages](https://ttaomae.github.io/posts/2017/01/migrating-from-wordpress-com-to-github-pages) (Todd Taomae, 2017) - explains why to migrate and compares WordPress to GitHub Pages
 
