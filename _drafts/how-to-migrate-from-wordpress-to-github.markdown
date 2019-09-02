@@ -14,14 +14,29 @@ At certain moments in time, people and organizations change from one site builde
 
 To find out how easy or how difficult it would be to migrate from WordPress to GitHub Pages, we researched on the web, and here's what we discovered.
 
+## Resources for Migrating from WordPress to GitHub Pages
 [Migrating from WordPress.com to GitHub Pages](https://ttaomae.github.io/posts/2017/01/migrating-from-wordpress-com-to-github-pages) (Todd Taomae, 2017) - explains why to migrate and compares WordPress to GitHub Pages
+
+[Migrating Wordpress Blogs to GitHub Pages](https://akshayranganath.github.io/Migrating-Wordpress-Blogs-to-Github-Pages/) (Akshay Ranganath, 2017)
+
+[Build A Blog With Jekyll And GitHub Pages]
+(https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) (Barry Clark, in Smashing Magazine, 2014) - has the step-by-step process that this author used to migrate from WordPress to Jekyll and GitHub
 
 ## Why Switch Away from WordPress
 
-* while wordpress.com has a free version, that also comes with ads
-* using wordpress.org to run a self-installed CMS requires a paid hosting service
+* though wordpress.com has a free version, that also comes with ads and limitations
+* wordpress.com is pay-to-play if you want plugins, customization, and no ads
+* wordpress.org allows you to run a self-installed CMS and that requires a paid hosting service
 
 ## Why Switch to GitHub Pages
 
 * GitHub Pages runs on free hosting
 * GitHub Pages serves up static pages, so it is lightning fast
+* no advertising on its web pages
+
+## What you need to know about GitHub Pages
+
+* you have to know how to use Markdown (not an absolute have-to, because of next point)
+* there are visual editors available via services like SiteLeaf and Forestry (unlike the built-in visual editor of WordPress)
+* you'll need to work thru intricately detailed technical steps (unlike the WordPress one-click install)
+
