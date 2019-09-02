@@ -1,9 +1,11 @@
 # name: Page 1
 # link: page-1
 - name: Blog
-  link: blog
+  link: /blog
 #  dropdown: 
 #    - name: Page 2
 #      link: page-2
 name: Get.Bible
 link: https://get.bible
+name: about
+link: /about
