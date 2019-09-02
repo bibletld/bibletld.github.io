@@ -3,7 +3,7 @@ link: /blog
 #  dropdown: 
 #    - name: Page 2
 #      link: page-2
-name: Get.Bible
+- name: Get.Bible
 link: https://get.bible
-name: about
-link: /about
+- name: contact
+link: /contact
