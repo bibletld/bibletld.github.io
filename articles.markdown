@@ -7,9 +7,10 @@ layout: blog
 
 *Useful articles to help you use the internet with more oomph.. [boomshakalaka](http://guacaholy.bible)*
 
+***
 \
 
-# **Latest Articles**
+## **Latest Articles**
 
 \
 
