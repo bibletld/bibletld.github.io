@@ -9,7 +9,9 @@ layout: blog
 
 \
 
-# Latest Articles
+# **Latest Articles**
+
+\
 
 <ul>
   {% for post in site.posts %}
@@ -18,3 +20,5 @@ layout: blog
     </li>
   {% endfor %}
 </ul>
+
+\
