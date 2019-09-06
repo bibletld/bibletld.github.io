@@ -18,5 +18,8 @@ layout: blog
     </li>
   {% endfor %}
 </ul>
+
+{{content}}
+![dotbible 250p.png](/uploads/dotbible%20250p.png)
  
  
