@@ -6,14 +6,11 @@ layout: blog
 ---
 
 *Useful articles to help you use the internet with more oomph.. [boomshakalaka](http://guacaholy.bible)*
-
 ***
-\
-
-## **Latest Articles**
-
-\
-
+ 
+<h1>Latest Articles</h1>
+ 
+ 
 <ul>
   {% for post in site.posts %}
     <li>
@@ -21,5 +18,5 @@ layout: blog
     </li>
   {% endfor %}
 </ul>
-
-\
+ 
+ 
