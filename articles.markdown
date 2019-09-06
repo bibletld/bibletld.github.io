@@ -7,6 +7,8 @@ layout: blog
 
 *Useful articles to help you use the internet with more oomph.. [boomshakalaka](http://guacaholy.bible)*
 
-## Latest Articles 
+(working on getting the latest blog posts to be displayed here - patience please..)
+
+# Latest Articles
 
 {{paginator.posts}}
