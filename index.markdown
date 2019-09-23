@@ -22,11 +22,15 @@ Robert Rouse of has [viz.bible](https://viz.bible) published with Bible meta dat
 ## [marvel.bible](https://marvel.bible)
 Eliran Wong has published Marvellous Bible Resources at [https://github.com/eliranwong](https://github.com/eliranwong)
 
-## [domaintest.bible](https://domaintest.bible)
+## [domaintest.bible](http://domaintest.bible/)
 testing service for software developers using the .BIBLE top-level domain - [https://github.com/google/domaintest](https://github.com/google/domaintest)
 
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ***
 
 * this website is powered by [siteleaf.com](https://manage.siteleaf.com/) and the [Get.Bible](https://get.bible) team
