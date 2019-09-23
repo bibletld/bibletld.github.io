@@ -1,22 +1,31 @@
 ---
-title: Featured use cases of .BIBLE domain names
+title: Featured Use Cases of .BIBLE Domain Names
 date: 2019-09-01 00:16:00 -04:00
 subtitle: a resource site from Get.Bible
-layout: page
 show_sidebar: true
+layout: page
 ---
 
 ***
 
-Welcome to this showcase of Github repositories and other things in the Github eco-system related to the .BIBLE top-level domain that are interesting and useful to be featured.
+Welcome to this showcase of Github repositories and other things in the Github eco-system related to the [.BIBLE top-level domain](https://get.bible) that are interesting and useful.
 
-## kingjames.bible
+## [API.Bible](https://scripture.api.bible/)
+Demo app of JavaScript code that uses [API.Bible](https://scripture.api.bible/) - repository at [https://github.com/americanbible/api-bible-js-demo](https://github.com/americanbible/api-bible-js-demo) - "With nearly 1500 Bible versions available across over 1000 languages, API.Bible offers the largest collection of Bibles available."
 
-source code for [kingjames.bible](http://kingjames.bible) @ [https://github.com/pstephens/kingjames.bible](https://github.com/pstephens/kingjames.bible)
+## [kingjames.bible](https://kingjames.bible)
+source code for [kingjames.bible](https://kingjames.bible) @ [https://github.com/pstephens/kingjames.bible](https://github.com/pstephens/kingjames.bible)
 
-## domaintest.bible
+## [viz.bible](https://viz.bible)
+Robert Rouse of has [viz.bible](https://viz.bible) published with Bible meta data repositories at  [https://github.com/robertrouse](https://github.com/robertrouse)
 
-testing files for new gTLD - [https://github.com/google/domaintest](https://github.com/google/domaintest)
+## [marvel.bible](https://marvel.bible)
+Eliran Wong has published Marvellous Bible Resources at [https://github.com/eliranwong](https://github.com/eliranwong)
+
+## [domaintest.bible](https://domaintest.bible)
+testing service for software developers using the .BIBLE top-level domain - [https://github.com/google/domaintest](https://github.com/google/domaintest)
+
+
 
 ***
 
