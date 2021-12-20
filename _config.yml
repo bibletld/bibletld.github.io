@@ -1,0 +1,22 @@
+---
+title: TLD.Bible
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+    layout: blog
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    author: Get.Bible
+    layout: post
+    show_sidebar: true
+remote_theme: chrisrhymes/bulma-clean-theme
+paginate: 5
+paginate_path: "/blog/page:num"
