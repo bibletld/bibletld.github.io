@@ -1,6 +1,6 @@
 ---
 title: Featured Use Cases of .BIBLE Domain Names
-date: 2019-09-01 00:16:00 -04:00
+date: 2021-12-20 00:16:00 -05:00
 subtitle: a resource site from Get.Bible
 show_sidebar: true
 layout: page
