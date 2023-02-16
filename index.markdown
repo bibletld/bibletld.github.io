@@ -6,7 +6,6 @@ show_sidebar: true
 layout: page
 ---
 
----
 
 Welcome to this showcase of Github repositories and other things in the Github eco-system related to the [.BIBLE top-level domain](https://get.bible) that are interesting and useful.
 
@@ -49,4 +48,4 @@ Eliran Wong has published Marvellous Bible Resources at [https://github.com/elir
 
 ---
 
-* this website is powered by [siteleaf.com](https://manage.siteleaf.com/) and the [Get.Bible](https://get.bible) team
+* this website is powered in part by [siteleaf.com](https://manage.siteleaf.com/) and the [Get.Bible](https://get.bible) team.
