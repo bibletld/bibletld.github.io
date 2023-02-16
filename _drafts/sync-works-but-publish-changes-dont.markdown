@@ -8,3 +8,5 @@ things get very technical in getting siteleaf and github repository and github p
 GET https://api.github.com/repos/bibletld/bibletld.github.io/git/refs/heads?per_page=100: 401 - Bad credentials // See: https://docs.github.com/rest
 
 but yet the status for Synced is successful
+
+um, okay, scratch that.. use just the sync tab in settings, and not the hosting tab in settings here on Siteleaf, and things seem to go much better
